@@ -33,3 +33,13 @@
     border-radius: 100%;
     
 }
+.pallob{
+    height: 300px;
+    width:20px;
+    background-color: black;
+    position: absolute;
+    top: 90%;
+    border-top-right-radius: 50px;
+
+    
+}
